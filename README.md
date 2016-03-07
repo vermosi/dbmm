@@ -2,6 +2,9 @@
 
 Don't Be Mad, Man... or 'dbmm' is a project I started to see how I could create a stress relieving website in the smallest way possible.
 
+Inspiration:
+  When I was working as a helpdesk tech for a medical company, I used to get flustered and angry. Storm about, and vent to my co-worker, Mr. Leroy Brown. Every time I would get in a tizzy, he would always say: "Don't be mad, man...". The quote became a day-in/day-out saying at the office, and an inside joke for the IT/Developer Team that worked there.
+
 The goals are:
 
   - Create a breathing circle animation.
