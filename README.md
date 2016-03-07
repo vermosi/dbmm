@@ -17,7 +17,10 @@ The goals are:
 
 * Bootstrap - pulled in via CDN
 * Modernizr - ditto
+* Font Awesome - for the heart, also pulled via CDN
 * CSS3 - For animations
+* Sublime Text 2 - my favorite text editor
+* AWS S3 / Route 53 - to host the static site
 
 ### To-Do List
 
