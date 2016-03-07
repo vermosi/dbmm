@@ -19,7 +19,7 @@ When I was working as a helpdesk tech for a medical company, I used to get flust
   * index.html - 1.47 KB
   * 404.html - 1.14 KB
   * style.css - 1.35 KB
-  * total - 3.99 KB - Just under 4 KB!
+  * Total - 3.99 KB - Just under 4 KB!
 
 ### Version
 0.0.1
