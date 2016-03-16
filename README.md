@@ -9,8 +9,8 @@ When I was working as a helpdesk tech for a medical company, I used to get flust
 ### Goals
 
   - Create a breathing circle animation.
-  - 2 HTML files, index and 404.
-  - Minify all the things.
+  - 2 HTML files, index and 404, nothing too complicated.
+  - Minify appropriate things.
   - In the future, add JS to set the background based on:[Time of day, weather in current visitor's location.]
   - Possibly add de-stressing quotes, via API or other means.
 
@@ -19,7 +19,7 @@ When I was working as a helpdesk tech for a medical company, I used to get flust
   * index.html - 1.47 KB
   * 404.html - 1.14 KB
   * style.css - 1.35 KB
-  * Total - 3.99 KB - Just under 4 KB!
+  * Total(gzipped) - 3.99 KB - Just under 4 KB!
 
 ### Version
 0.0.1
@@ -35,6 +35,6 @@ When I was working as a helpdesk tech for a medical company, I used to get flust
 
 ### To-Do List
 
-* Add multiple backgrounds based upon:[Location, Time, and Weather]
-* Add audio, and audio controls:[Volume Button, start off muted, 3-5 volume levels.]
-* Integrate API to pull in de-stress quotes, perhaps new quote every refresh, or a set time variable.
+* Add multiple backgrounds based upon:[Location, Time, and Weather] (Ver. 1 priority.)
+* Add audio, and audio controls:[Volume Button, start off muted, 3-5 volume levels.] (Unsure about this.)
+* Integrate API to pull in de-stress quotes, perhaps new quote every refresh, or a set time variable. (Also unsure about.)
