@@ -33,7 +33,8 @@ When I was working as a helpdesk tech for a medical company, I used to get flust
 
 ### To-Do List
 
-* Add variable slider to change the rate in which the animation triggers: (Most requested feature!) (5s to 10s maybe?) (Ver. 1 priority.)
+* Add text to inform user to breathe with the animation. (Most requested feature!)
+* Add variable slider to change the rate in which the animation triggers: (Second most requested feature!) (5s to 10s maybe?) (Ver. 1 priority.)
 * Add multiple backgrounds based upon: Location, Time, and Weather (Ver. 1 priority.)
 * Add audio, and audio controls: Volume Button, start off muted, 3-5 volume levels. (Unsure about this.)
 * Integrate API to pull in de-stress quotes, perhaps new quote every refresh, or a set time variable. (Also unsure about.)
